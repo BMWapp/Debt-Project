@@ -1,0 +1,8 @@
+H:\PSCP\Project\ExcelExperimentation\ExcelExperimentation\bin\Debug\ExcelExperimentation.exe
+H:\PSCP\Project\ExcelExperimentation\ExcelExperimentation\bin\Debug\ExcelExperimentation.pdb
+H:\PSCP\Project\ExcelExperimentation\ExcelExperimentation\obj\x86\Debug\ExcelExperimentation.Form1.resources
+H:\PSCP\Project\ExcelExperimentation\ExcelExperimentation\obj\x86\Debug\ExcelExperimentation.Properties.Resources.resources
+H:\PSCP\Project\ExcelExperimentation\ExcelExperimentation\obj\x86\Debug\ExcelExperimentation.csproj.GenerateResource.Cache
+H:\PSCP\Project\ExcelExperimentation\ExcelExperimentation\obj\x86\Debug\ExcelExperimentation.exe
+H:\PSCP\Project\ExcelExperimentation\ExcelExperimentation\obj\x86\Debug\ExcelExperimentation.pdb
+H:\PSCP\Project\ExcelExperimentation\ExcelExperimentation\obj\x86\Debug\ExcelExperimentation.csprojResolveAssemblyReference.cache

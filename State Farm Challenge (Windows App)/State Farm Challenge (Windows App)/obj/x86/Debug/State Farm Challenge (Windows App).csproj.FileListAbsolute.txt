@@ -1,0 +1,16 @@
+H:\C#\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State_Farm_Challenge__Windows_App_.Form1.resources
+H:\C#\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State_Farm_Challenge__Windows_App_.Properties.Resources.resources
+H:\C#\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State Farm Challenge (Windows App).csproj.GenerateResource.Cache
+H:\C#\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\bin\Debug\State Farm Challenge (Windows App).exe
+H:\C#\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\bin\Debug\State Farm Challenge (Windows App).pdb
+H:\C#\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State Farm Challenge (Windows App).exe
+H:\C#\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State Farm Challenge (Windows App).pdb
+H:\C#\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State Farm Challenge (Windows App).csprojResolveAssemblyReference.cache
+H:\PSCP\Project\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State Farm Challenge (Windows App).exe
+H:\PSCP\Project\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State Farm Challenge (Windows App).pdb
+H:\PSCP\Project\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\bin\Debug\State Farm Challenge (Windows App).exe
+H:\PSCP\Project\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\bin\Debug\State Farm Challenge (Windows App).pdb
+H:\PSCP\Project\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State Farm Challenge (Windows App).csprojResolveAssemblyReference.cache
+H:\PSCP\Project\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State_Farm_Challenge__Windows_App_.Form1.resources
+H:\PSCP\Project\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State_Farm_Challenge__Windows_App_.Properties.Resources.resources
+H:\PSCP\Project\State Farm Challenge (Windows App)\State Farm Challenge (Windows App)\obj\x86\Debug\State Farm Challenge (Windows App).csproj.GenerateResource.Cache
